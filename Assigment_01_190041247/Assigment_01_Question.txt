@@ -1,0 +1,9 @@
+This is an individual assignment, everyone needs to submit their own project.
+Develop a simple java application that employs the MVC design pattern. You can take a look at the MVCexample project I uploaded to get an idea of what your application code should look like.
+Your application should contain the three major components - model, view and controller - and should abide by all the basic principles of MVC like separation of concerns, code modularity etc.
+You need to implement a database like MySQL or Oracle that your Model component will communicate with to extract data.
+Everyone's application must be different; I do not want to see the same application or the same application code. Any similar project I find will be penalized and will not receive any marks. Furthermore, future assignments for such students may not be graded either.
+
+Submission Instructions:
+When submitting your project, DO NOT zip your project. All files necessary to run your project should be uploaded directly. For example, if your project has 7 java files, upload the java files directly. For your database, upload a rough diagram of the ERD of your database.
+You should add comments for every method you write to explain the purpose of the method.
